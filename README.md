@@ -12,13 +12,13 @@ List 2~3 important annoncements, including milestones, major releases...
 
 </div>
 
-# Demo
+# 🧠 Demo
 Insert product demo.
 
 It is recommended that the demo is within 2mins.
 
 # 🌟 Overview
-Briefly introduce the project positioning, functionalities, and target audience.
+Briefly introduce the project goal, functionalities, target audience, and background information(e.g., why we build the project).
 
 > Sample    
 > OpenHealth helps you take charge of your health data. By leveraging AI and your personal health information, OpenHealth provides a private assistant that helps you better understand and manage your health. You can run it completely locally for maximum privacy.
@@ -38,15 +38,10 @@ List 3~5 core features of the project.
 |xxx	|xxx       |
 |xxx	|xxx       |
 
-# 🤔 Why We Built the Project
-- 💡 xxx
-- ✅ xxx
-- 🧠 xxx
-
 # 🗺️ Tech Architecture / Project Diagram / Workflow
 Illustrate the key technical points with technical architecture, workflow and so on.
 
-# Quickstart
+# ✅ Quickstart
 Include the following information, and provide necessary samples and datasets. You can adjust content based on your project accordingly.
 
 - Install and deploy (lists prerequisites if any)
@@ -68,7 +63,7 @@ An overview of the vulnerability handling process is:
 
 - The project publicly announces the vulnerability and describes how to apply the fix.
 
-# License
+# 💡 License
 This project is licensed under the Apache 2.0 License, see the LICENSE file for details. 
 
 # 🌐 Community and Support
