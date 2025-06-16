@@ -1,4 +1,6 @@
-OpenSQZ GitHub organization hosts open source projects for [Shanghai Qi Zhi Institute](https://www.sqz.ac.cn/)(SQZ). 
+From concept to scratch, from research to reality, we explore innovation in the openness, and build open projects for SQZ([Shanghai Qi Zhi Institute](https://www.sqz.ac.cn/)).
+
+Welcome to OpenSQZ, home to open source projects for [Shanghai Qi Zhi Institute](https://www.sqz.ac.cn/). 
 
 ![SQZ-logo](https://github.com/user-attachments/assets/f31a2510-049d-4f86-bfb9-5dac8da4763d)
 
