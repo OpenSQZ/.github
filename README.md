@@ -1,19 +1,63 @@
-OpenSQZ GitHub organization hosts open source projects for [Shanghai Qi Zhi Institute](https://www.sqz.ac.cn/)(SQZ). 
+<div align="center">
 
-![SQZ-logo](https://github.com/user-attachments/assets/f31a2510-049d-4f86-bfb9-5dac8da4763d)
+**Project Name | Slogan**
+> Sample: AI Health Assistant | Powered by Your Data
 
-Shanghai Qi Zhi Institute is a Public Institution affiliated to Science and Technology Commission of Shanghai Municipality, led by Andrew Chi-Chih Yao, Turing Award winner and Academician of Chinese Academy of Sciences. 
+**📢 Annoncements**  
+List 2~3 important annoncements, including milestones, major releases...
 
-Its mission is to conduct cutting-edge research in basic science, with focus on AI, information security and quantum computing.  Since its founding, SQZ has delivered outstanding results in these basic sciences as well as related interdisciplinary domains, gaining recognition as a leading international institute.
+**🌍 Choose Your Language**
 
-# License
-Software in the OpenSQZ organization is released under the [Apache License](https://www.apache.org/licenses/LICENSE-2.0) or [MIT License](https://opensource.org/license/mit).
+[English](README.md)  | [中文](cn/README.md) 
 
-# Code of Conduct
+</div>
 
-OpenSQZ open source projects follow the [ASF Code of Conduct](https://apache.org/foundation/policies/conduct).
+# Demo
+Insert product demo.
 
-# Vulnerability handling
+It is recommended that the demo is within 2mins.
+
+# 🌟 Overview
+Briefly introduce the project positioning, functionalities, and target audience.
+
+> Sample    
+> OpenHealth helps you take charge of your health data. By leveraging AI and your personal health information, OpenHealth provides a private assistant that helps you better understand and manage your health. You can run it completely locally for maximum privacy.
+
+# ✨ Core Features
+List 3~5 core features of the project.
+
+> Sample    
+> -  📊 Centralized Health Data Input: Easily consolidate all your health data in one place.    
+> -  🛠️ Smart Parsing: Automatically parses your health data and generates structured data files.     
+> -  🤝 Contextual Conversations: Use the structured data as context for personalized interactions with GPT-powered AI.
+
+# 📥 Supported Data Sources & Language Models
+
+| Data Sources You Can Add	| Supported Language Models |
+|------------------|--------------------
+|xxx	|xxx       |
+|xxx	|xxx       |
+
+# 🤔 Why We Built the Project
+- 💡 xxx
+- ✅ xxx
+- 🧠 xxx
+
+# 🗺️ Tech Architecture / Project Diagram / Workflow
+Illustrate the key technical points with technical architecture, workflow and so on.
+
+# Quickstart
+Include the following information, and provide necessary samples and datasets. You can adjust content based on your project accordingly.
+
+- Install and deploy (lists prerequisites if any)
+- Set up and configure (provides examples and datasets if any)
+- Build and run
+- Access with browser(optional)
+- Verify the result
+
+# 🛠️ Security Policy
+If you find a security issue with our project, report the vulnerability privately to [OpenSQZ](mailto:ospo@sqz.ac.cn). It is critical to avoid public disclosure.
+
 An overview of the vulnerability handling process is:
 
 - The reporter reports the vulnerability privately to [OpenSQZ](mailto:ospo@sqz.ac.cn).
@@ -24,5 +68,13 @@ An overview of the vulnerability handling process is:
 
 - The project publicly announces the vulnerability and describes how to apply the fix.
 
-# Contact
-If you have any issue, would like to discuss cooperation or donate your project to OpenSQZ, feel free to [contact us](mailto:ospo@sqz.ac.cn).
+# License
+This project is licensed under the Apache 2.0 License, see the LICENSE file for details. 
+
+# 🌐 Community and Support
+Provide contact information, including
+
+- Email(user/dev email addresses, with self-subscribe service)
+- Discord / Slack
+- WeChat / DingTalk
+- Twitter / Zhihu...
