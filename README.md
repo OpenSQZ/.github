@@ -12,7 +12,7 @@ List 2~3 important annoncements, including milestones, major releases...
 
 </div>
 
-# 🧠 Demo
+# 🔥 Demo
 Insert product demo.
 
 It is recommended that the demo is within 2mins.
@@ -31,6 +31,9 @@ List 3~5 core features of the project.
 > -  🛠️ Smart Parsing: Automatically parses your health data and generates structured data files.     
 > -  🤝 Contextual Conversations: Use the structured data as context for personalized interactions with GPT-powered AI.
 
+# 🗺️ Tech Architecture / Project Diagram / Workflow
+Illustrate the key technical points with technical architecture, workflow and so on.
+
 # 📥 Supported Data Sources & Language Models
 
 | Data Sources You Can Add	| Supported Language Models |
@@ -38,10 +41,7 @@ List 3~5 core features of the project.
 |xxx	|xxx       |
 |xxx	|xxx       |
 
-# 🗺️ Tech Architecture / Project Diagram / Workflow
-Illustrate the key technical points with technical architecture, workflow and so on.
-
-# ✅ Quickstart
+# 🚀 Quickstart
 Include the following information, and provide necessary samples and datasets. You can adjust content based on your project accordingly.
 
 - Install and deploy (lists prerequisites if any)
@@ -62,6 +62,12 @@ An overview of the vulnerability handling process is:
 - The project creates a new release of the package the vulnerability affects to deliver its fix.
 
 - The project publicly announces the vulnerability and describes how to apply the fix.
+
+# 🚰 Citation
+If you use or extend our work, please kindly cite xxx.
+
+# Contributing
+Contributions and collaborations are welcome and highly appreciated. Check out the [contributor guide]() and get involved.
 
 # 💡 License
 This project is licensed under the Apache 2.0 License, see the LICENSE file for details. 
