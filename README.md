@@ -4,7 +4,7 @@
 > Sample: AI Health Assistant | Powered by Your Data
 
 **📢 Annoncements**  
-List 2~3 important annoncements, including milestones, major releases...
+> List 2~3 important annoncements, including milestones, major releases...
 
 **🌍 Choose Your Language**
 
