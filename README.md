@@ -13,7 +13,7 @@
 </div>
 
 # 🔥 Demo
-Insert product demo.
+Insert a product demo.
 
 It is recommended that the demo is within 2mins.
 
