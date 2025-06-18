@@ -67,7 +67,7 @@ An overview of the vulnerability handling process is:
 If you use or extend our work, please kindly cite xxx.
 
 # Contributing
-Contributions and collaborations are welcome and highly appreciated. Check out the [contributor guide](CONTRIBUTING.md) and get involved.
+Contributions and collaborations are welcome and highly appreciated. Check out the [contributor guide]() and get involved.
 
 # 💡 License
 This project is licensed under the Apache 2.0 License, see the LICENSE file for details. 
