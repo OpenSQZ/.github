@@ -1,4 +1,4 @@
-From concept to prototype, from research to reality, we explore innovation and insights in the open at SQZ([Shanghai Qi Zhi Institute](https://www.sqz.ac.cn/)).
+From concept to prototype, from research to reality, we explore innovation and insights in the open at SQZ ([Shanghai Qi Zhi Institute](https://www.sqz.ac.cn/)).
 
 Welcome to OpenSQZ, home to open source projects for Shanghai Qi Zhi Institute. 
 
