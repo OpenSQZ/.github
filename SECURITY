@@ -4,7 +4,7 @@ We actively patch only the most recent minor release. Older versions receive fix
 
 ## Reporting a Vulnerability
 
-Email [ospo@sqz.ac.cn](mailto:ospo@sqz.ac.cn) with:
+Email ospo@sqz.ac.cn with:
 
 - A short summary of the issue
 - Steps to reproduce or a proof of concept
