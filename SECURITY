@@ -1,12 +1,10 @@
 # Security Policy
 
-## Supported Versions
-
 We actively patch only the most recent minor release. Older versions receive fixes at our discretion.
 
 ## Reporting a Vulnerability
 
-Email ospo@sqz.ac.cn with:
+Email [ospo@sqz.ac.cn](ospo@sqz.ac.cn) with:
 
 - A short summary of the issue
 - Steps to reproduce or a proof of concept
