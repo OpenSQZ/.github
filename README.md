@@ -13,9 +13,10 @@
 </div>
 
 # 🔥 Demo
-Insert a product demo.
 
-It is recommended that the demo is within 2mins.
+> Insert a product demo.
+
+> It is recommended that the demo is within 2mins.
 
 # 🌟 Overview
 Briefly introduce the project goal, functionalities, target audience, and background information(e.g., why we build the project).
