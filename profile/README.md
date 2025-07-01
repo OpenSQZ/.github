@@ -2,7 +2,7 @@ From concept to prototype, from research to reality, we explore innovation and i
 
 Welcome to OpenSQZ, home to open source projects for Shanghai Qi Zhi Institute. 
 
-![SQZ-logo](https://github.com/user-attachments/assets/f31a2510-049d-4f86-bfb9-5dac8da4763d)
+<img width="798" alt="image" src="https://github.com/user-attachments/assets/4ca945de-714a-436f-9ce5-90aaf6f22d91" />
 
 Shanghai Qi Zhi Institute is a Public Institution affiliated to Science and Technology Commission of Shanghai Municipality, led by Andrew Chi-Chih Yao, Turing Award winner and Academician of Chinese Academy of Sciences. 
 
