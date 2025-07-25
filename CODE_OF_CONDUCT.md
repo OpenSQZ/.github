@@ -29,5 +29,4 @@ environment where participants feel welcome and safe.
 If you observe behavior that violates those rules, you can report problems by emailing ospo@sqz.ac.cn
 
 We will investigate every complaint, but you may not receive a direct response. We will use our discretion in determining when and how to follow up on reported
-incidents, which may range from not taking action to permanent expulsion from the project and project-sponsored spaces. We will notify the accused of the report and provide them with an opportunity to discuss it before any action is taken. The identity of the reporter will be omitted from the details of the report supplied to the accused. In potentially harmful situations, such as ongoing harassment or threats to anyone's safety, we may take action without
-notice.
+incidents, which may range from not taking action to permanent expulsion from the project and project-sponsored spaces. We will notify the accused of the report and provide them with an opportunity to discuss it before any action is taken. The identity of the reporter will be omitted from the details of the report supplied to the accused. In potentially harmful situations, such as ongoing harassment or threats to anyone's safety, we may take action without notice.
